@@ -1,0 +1,45 @@
+.navbar {
+    background-color: #04B404;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.imgSecao {
+    margin-top: 15px;
+}
+
+.ctn2 {
+    margin-top: 27px;
+}
+
+.quem-somos {
+    background-color: #0080FF;
+    color: white;
+}
+
+.parceiros {
+    background-color: #A901DB;
+    color: white;
+}
+
+.servicos {
+    background-color: #FACC2E;
+    color: white;
+}
+
+p {
+    color: black;
+}
+
+.bg-footer {
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.p-footer {
+    color: white;
+}
